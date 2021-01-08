@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"plugins": [
+        {
+            "id":"nyaa",
+            "version":"1.0",
+            "type":"ecmascript",
+            "author":"Vangelis27",
+            "showtimeVersion":"4.8.1",
+            "title":"NyaaTorrents",
+            "synopsis":"Custom Nyaa torrents",
+            "description":"Custom Nyaa torrents",
+            "homepage":"https://github.com/Vangelis27/movian-nyaa-test",
+            "category":"video",
+            "downloadURL": "https://github.com/Vangelis27/movian-nyaa-test/archive/main.zip",
+            "icon": "https://github.com/Vangelis27/movian-nyaa-test/blob/main/logo.png",
+            "popularity": 22601
+        }
+	],
+	"cc": "GR"
+}
